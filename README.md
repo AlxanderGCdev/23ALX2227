@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alxander89@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QVbX1V9tIj4FTBEPoI_0iHc6DcyuFFex/view?usp=sharing](https://drive.google.com/file/d/1QVbX1V9tIj4FTBEPoI_0iHc6DcyuFFex/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jXbPIY-_FyHhT_DiH0TQqAXs5vx64KOc/view?usp=sharing](https://drive.google.com/file/d/1jXbPIY-_FyHhT_DiH0TQqAXs5vx64KOc/view?usp=sharing)
 
 - ⚡ Fun fact **I really like soccer, video games and technology is my passion.**
 
