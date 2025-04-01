@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alexander G. CAstillo</h1>
+<h1 align="center">Hi 👋, I'm Alexander Gustavo Castillo</h1>
 <h3 align="center">A passionate Full-Stack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23alx2227&label=Profile%20views&color=0e75b6&style=flat" alt="23alx2227" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=23alx2227" alt="23alx2227" /></a> </p>
 
-- 🔭 I’m currently working on [GYMApp](https://github.com/23ALX2227/GYMApp)
-
-- 🌱 I’m currently learning **Angular, Java and Typescript**
+- 🔭 I’m currently working on [Campers](https://github.com/IgrowkerTraining/i005-campers-front)
 
 - 👨‍💻 All of my projects are available at [https://github.com/23ALX2227](https://github.com/23ALX2227)
 
